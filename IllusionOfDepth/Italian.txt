@@ -1,0 +1,20 @@
+Hamster Hunt
+Ritorno
+Menu
+Inizio
+Controlli
+Movimento
+~WASD
+Pausa
+~P
+Smettere
+~Esc
+Attribuzioni
+Fatto da
+~Spencer Martin
+Lingua
+~Inglese
+~Italiano
+Uscita
+In Pausa
+Hai vinto!

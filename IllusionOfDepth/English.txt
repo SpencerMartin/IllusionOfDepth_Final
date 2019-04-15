@@ -1,0 +1,20 @@
+Hamster Hunt
+Return
+Menu
+Play
+Controls
+Movement
+~WASD
+Pause
+~P
+Quit
+~Esc
+Credits
+Made by
+~Spencer Martin
+Language
+~English
+~Italian
+Exit
+Paused
+You Won!
